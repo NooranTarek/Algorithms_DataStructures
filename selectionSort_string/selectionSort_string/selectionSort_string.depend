@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703417375 source:d:\iti 2023_2024\algorithmans datastructures\day1\assigment\selectionsort_string\selectionsort_string\main.cpp
+	<iostream>
+	<algorithm>
+

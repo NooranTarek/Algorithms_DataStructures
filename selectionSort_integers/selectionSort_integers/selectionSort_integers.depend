@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703492785 source:d:\iti 2023_2024\algorithmans datastructures\day1\assigment\selectionsort_integers\selectionsort_integers\main.cpp
+	<iostream>
+	<algorithm>
+
