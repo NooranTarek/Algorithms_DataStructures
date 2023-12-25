@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703505335 source:d:\iti 2023_2024\algorithmans datastructures\day2\mergesort\main.cpp
+	<iostream>
+	<algorithm>
+
